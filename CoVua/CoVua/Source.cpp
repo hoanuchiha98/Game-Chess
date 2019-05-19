@@ -14,7 +14,7 @@
 using namespace sf;
 using namespace std;
 //skdjskdksdksdksdmksdmksmdskm
-
+//dfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfđfdfdfdfdfdfdfdf
 Vector2f offset(28 + 24, 28 + 48);
 RenderWindow window;
 
